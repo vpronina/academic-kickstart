@@ -7,3 +7,14 @@
 # The actual configuration files are stored in the `config/_default/` folder.
 
 baseurl = "https://vpronina.github.io/"
+title = "Picasel Agency Docs"
+#if not set copyright, default copyright template will be applied
+copyright = "Copyright (c) 2008 - 2014, Steve Francia; all rights reserved."
+theme = "nofancy"
+
+[params]
+	highlight="Assign a syntax highlight style"
+
+[author]
+    name = "Komarov Valentin"
+    github = "lamberk"
